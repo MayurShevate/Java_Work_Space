@@ -1,0 +1,11 @@
+1634712979184	Rename resource 'application.properties'
+1634713942577	Rename resource 'application.properties'
+1634714462637	Rename package 'controller'
+1634714485479	Delete elements
+1634714707129	Rename package 'com.xoriant.searchservice'
+1634714800834	Rename package 'com.xoriant.searchservice.controller'
+1634714817428	Rename package 'com.xoriant.searchservice.dao'
+1634714834026	Rename package 'com.xoriant.searchservice.model'
+1634714849392	Rename package 'com.xoriant.searchservice.service'
+1634715627322	Rename package 'com.xoriant.ecart.controller'
+1634715675377	Rename type 'ProductRestController'
